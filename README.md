@@ -56,10 +56,10 @@
    
    ![](https://github.com/jlcastro5/Laboratorio1_2p/blob/7c8bb3d19e472bc47657a97232d20854d5f79439/ERROR.PNG)
 
-
+   ![](https://github.com/jlcastro5/Laboratorio1_2p/blob/f165597578833f825665beb697d3bee633a58e40/TABLA1.PNG)
    
-
-    
+   ![](https://github.com/jlcastro5/Laboratorio1_2p/blob/f165597578833f825665beb697d3bee633a58e40/TABLA2.PNG)
+      
 5. VIDEO
 
 https://github.com/jlcastro5/Laboratorio1_2p/blob/80f55367b04ee510d7779f4736bcddc5f53a30a6/SUPERPOSICION.pdf
