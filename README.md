@@ -52,7 +52,9 @@
    
    ![](https://github.com/jlcastro5/Laboratorio1_2p/blob/fbdb92bdff0ccc5b1c9ee1cc7b6edffecac2376c/VX''0.PNG)
    
-   ![](https://github.com/jlcastro5/Laboratorio1_2p/blob/fbdb92bdff0ccc5b1c9ee1cc7b6edffecac2376c/CIRCUITOCOMPELTO.PNG)
+   ![](https://github.com/jlcastro5/Laboratorio1_2p/blob/7c8bb3d19e472bc47657a97232d20854d5f79439/TOTAL.PNG)
+   
+   ![](https://github.com/jlcastro5/Laboratorio1_2p/blob/7c8bb3d19e472bc47657a97232d20854d5f79439/ERROR.PNG)
 
 
    
@@ -60,7 +62,7 @@
     
 5. VIDEO
 
-
+https://github.com/jlcastro5/Laboratorio1_2p/blob/80f55367b04ee510d7779f4736bcddc5f53a30a6/SUPERPOSICION.pdf
 
 6. CONCLUSIONES
 
