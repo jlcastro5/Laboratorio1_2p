@@ -2,7 +2,7 @@
 1. OBJETIVOS 
 
    Objetivo general
-   * Analizar y comprobar de forma teorica y experimental veracidad que tienen las leyes de thevenin con respecto a los voltajes y corrientes de un circuito electrico, esto se llevara a cabo mediante el desarrollo del presente laboratorio que abordará el tema “Equivalente Thevenin y Norton” de un circuito eléctrico mixto planteado por el tutor de la asignatura, cabe recalcar que el presente circuito ya ha sido resuelto mediante un simulador virtual, por lo que se espera los mismos resultados, se utilizara simuladores virtuales de circuitos eléctricos los cuales brindaran oportunidad de corroborar la exactitud de los datos teóricos obtenidos.
+   * Analizar y comprobar de forma teorica y experimental veracidad que tiene la Super posicón con respecto a los voltajes y corrientes de un circuito electrico, esto se llevara a cabo mediante el desarrollo del presente laboratorio que abordará el tema “Equivalente Thevenin y Norton” de un circuito eléctrico mixto planteado por el tutor de la asignatura, cabe recalcar que el presente circuito ya ha sido resuelto mediante un simulador virtual, por lo que se espera los mismos resultados, se utilizara simuladores virtuales de circuitos eléctricos los cuales brindaran oportunidad de corroborar la exactitud de los datos teóricos obtenidos.
 
    Objetivos específicos
    
