@@ -166,7 +166,7 @@
 
 6. CONCLUSIONES
 
-     *	
+      * El teorema de superposición han permitido obtener resultados muy exactos entre los datos obtenidos mediante el desarrollo teórico y la simulación, mismos que fueron recopilados desde tinkercad. Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del teorema de superposición son precisos por lo que el método es muy fiable para resolver este tipo de circuitos eléctricos.	
 
 
 7. BIBLIOGRAFÍA 
