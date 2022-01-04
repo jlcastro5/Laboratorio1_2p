@@ -71,6 +71,7 @@
    *Figura 7. Circuito esquematico V2=0.*
    
    Ahora tomamos en cuenta en el analisis de malla las leyes kichhoff la sumatoria de los voltajes es igual 0 por lo que mediante ley de ohm V = I.R, por lo que reemplazamos lo valores en la formula y procedemos a encontrar las 3 ecuaciones de las 3 mallas mostrando en la figura 8 por lo que una vez ordenado y obtenido las ecuaciones formamos el sistema de ecuaciones como se muestra en la figura 9. Por lo que colocamos dichas ecuaciones en una calculadora tanto fisica o online el cual nos permita obtener los valores de las 3 corrientes en este caso los valores de las corrientes se encuentran en la figura 10. y luego realizamos un analisis con los valores encontrados.
+   
    ![](https://github.com/jlcastro5/Laboratorio1_2p/blob/fbdb92bdff0ccc5b1c9ee1cc7b6edffecac2376c/ANALSIS%20DE%20MALLA.PNG)
    
    *Figura 8. Analisis de malla.*
